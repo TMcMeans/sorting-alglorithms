@@ -1,0 +1,19 @@
+{
+  "name": "@tmcmeans/sorting-alglorithms",
+  "version": "1.0.0",
+  "description": "An example node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TMcMeans/sorting-alglorithms.git"
+  },
+  "author": "Tanjie McMeans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TMcMeans/sorting-alglorithms/issues"
+  },
+  "homepage": "https://github.com/TMcMeans/sorting-alglorithms#readme"
+}
